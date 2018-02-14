@@ -2,4 +2,4 @@
 name = Kent Beck
 
 def(name)
-  say_hello 
+  say_hello (name)
