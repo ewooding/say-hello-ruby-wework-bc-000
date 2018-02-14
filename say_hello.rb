@@ -3,3 +3,6 @@ name = Kent Beck
 
 def(name)
   say_hello (name)
+end
+
+puts say_hello
