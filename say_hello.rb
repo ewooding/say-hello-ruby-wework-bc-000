@@ -4,4 +4,5 @@ end
 
 greeting
 
-greeting ('')
+greeting ("Kent Beck")
+
