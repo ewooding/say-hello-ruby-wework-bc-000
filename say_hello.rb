@@ -2,7 +2,7 @@
 name = "Kent Beck"
 
 def say_hello
- puts = Hello { name }
+ puts = "Hello { name }"
 end
 
 puts say_hello
